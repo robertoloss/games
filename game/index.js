@@ -14,7 +14,7 @@ const jumpVelocity = 7
 let jumpInitialY = 0
 let xKeyActive = true
 
-const mapNumber = prompt('Insert level number [0]') || 0
+const mapNumber = 0
 
 const forestImg = new Image()
 forestImg.src = './forest.png'
