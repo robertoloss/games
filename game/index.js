@@ -17,7 +17,7 @@ let xKeyActive = true
 const mapNumber = prompt('Insert level number [0]') || 0
 
 const forestImg = new Image()
-forestImg.src = './forest.png'
+forestImg.src = 'forest.png'
 
 const forest = {
   pos: {
